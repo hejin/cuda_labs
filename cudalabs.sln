@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample", "labs\labs.vcxproj
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixAssign", "matrixAssign\matrixAssign.vcxproj", "{ED8A95DE-7A74-4B0A-816A-F7C7D7B6F892}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixAssign2", "matrixAssign2\matrixAssign2.vcxproj", "{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,14 @@ Global
 		{ED8A95DE-7A74-4B0A-816A-F7C7D7B6F892}.Release|Win32.Build.0 = Release|Win32
 		{ED8A95DE-7A74-4B0A-816A-F7C7D7B6F892}.Release|x64.ActiveCfg = Release|x64
 		{ED8A95DE-7A74-4B0A-816A-F7C7D7B6F892}.Release|x64.Build.0 = Release|x64
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Debug|Win32.Build.0 = Debug|Win32
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Debug|x64.ActiveCfg = Debug|x64
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Debug|x64.Build.0 = Debug|x64
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Release|Win32.ActiveCfg = Release|Win32
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Release|Win32.Build.0 = Release|Win32
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Release|x64.ActiveCfg = Release|x64
+		{87C7DC83-C7F1-4C11-8BDC-EAD318E519AC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
